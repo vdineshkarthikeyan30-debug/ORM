@@ -1,5 +1,5 @@
 # Ex01 Django ORM Web Application
-## Date: 
+## Date: 26-11-2025
 
 ## AIM
 To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
@@ -39,7 +39,7 @@ Execute Django admin using localhost and create details for 10 entries
 
 
 ## OUTPUT
-
+![alt text](<Screenshot 2025-11-26 201722.png>)
 
 
 ## RESULT
